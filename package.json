@@ -1,5 +1,6 @@
 {
   "name": "phonepe-clone-fullstack",
+  "private": true,
   "version": "1.0.0",
   "description": "PhonePe mobile clone optimized for mobile web with React front-end and Node/Express/MongoDB back-end.",
   "main": "server.js",
@@ -29,7 +30,7 @@
     "vite": "^5.4.1"
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": "18.x"
   },
   "license": "MIT"
 }
